@@ -4,6 +4,11 @@
 
  <h1>Sites que eu fiz</h1>
 
+<h2> Outros Projetos</h2>
+
+<a href="https://joseitalop.github.io/Cafeteria/"> Caféteria: Café na Mesa </a>
+
+
 <h2> Feitos em cursos </h2>
 <a href="https://joseitalop.github.io/Cordel/">Projeto Cordel Moderno</a>
 
