@@ -1,6 +1,6 @@
 # Portifolio de HTML e CSS
  
- Profissional e entusiasta da aréa de programação com conhecimento intermediario em HTML, CSS e React
+ Profissional e entusiasta da aréa de programação com conhecimento intermediário em HTML, CSS e React
 
  <h1>Sites que eu fiz</h1>
  <a href="https://joseitalop.github.io/R_to_do_list/"> To Do List com Login </a>
